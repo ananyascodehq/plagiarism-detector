@@ -1,7 +1,7 @@
 # 📄 Plagiarism Detector
 
 A simple plagiarism detection project built in Python.  
-This notebook compares text files using **Jaccard Similarity**, **Cosine Similarity**, and **Semantic Similarity** methods.
+This notebook compares text files using **Jaccard Similarity**, **Cosine Similarity**, **n-grams** and **Semantic Similarity** methods.
 
 ---
 
