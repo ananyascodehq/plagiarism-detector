@@ -1,0 +1,5 @@
+Artificial Intelligence (AI) is transforming industries by enabling machines to learn from data 
+and make decisions with minimal human intervention. Machine Learning, a subset of AI, focuses on 
+developing algorithms that allow systems to improve their performance automatically through experience. 
+Applications of AI span across healthcare, finance, education, and autonomous systems, redefining the 
+way humans interact with technology.

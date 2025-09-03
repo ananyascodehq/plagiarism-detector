@@ -1,0 +1,4 @@
+AI is reshaping various sectors by teaching computers to analyze information 
+and act independently. One of its major fields, Machine Learning, emphasizes building models 
+that adapt and enhance their accuracy over time. From hospitals and banks to schools and 
+self-driving vehicles, artificial intelligence is revolutionizing how people use technology.
